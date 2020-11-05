@@ -25,7 +25,7 @@ vanilla = Cat()
 ```
 
 #### Changing the variables for each object and then displaying the changes
-#### for every cat with the MEOWWWW remaining the same
+#### For every cat with the MEOWWWW remaining the same
 
 ### sesame
 ```
