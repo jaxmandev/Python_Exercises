@@ -35,7 +35,7 @@ print(f"sesame is a -----> " + sesame.animal_kind)
 print(f"sesame has a tendency to be ------> " + sesame.tendency)
 print("meow??   "+ sesame.meow())
 ```
-# pepper
+### pepper
 ```
 pepper.animal_kind = "wild feline"
 pepper.tendency = "Purrrr"
@@ -45,7 +45,7 @@ print(f"pepper is a -----> " + pepper.animal_kind)
 print(f"pepper has a tendency to ------> " + pepper.tendency)
 print("meow???   "+ pepper.meow())
 ```
-# vanilla
+### vanilla
 ```
 vanilla.animal_kind = "domestic feline"
 vanilla.tendency = "sleepy"
