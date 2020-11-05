@@ -24,8 +24,9 @@ pepper = Cat()
 vanilla = Cat()
 ```
 
-### Changing the variables for each object and then displaying the changes
-### for every cat with the MEOWWWW remaining the same
+#### Changing the variables for each object and then displaying the changes
+#### for every cat with the MEOWWWW remaining the same
+
 ### sesame
 ```
 sesame.animal_kind = "black-coated feline"
